@@ -47,4 +47,13 @@
 }
 .park {
   background-image: url("../backgrounds/foodsBg.jpg");
+  height: 50rem;
+  background-repeat: no-repeat;
+  max-height: 100%;
+  background-position: center;
+  background-size: cover;
+  margin-top: 5rem;
+  margin-left: 0;
+  margin-right: 0;
+  font-family: 'El Messiri', sans-serif;
 }
